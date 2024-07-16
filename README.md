@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm Bob, passionate about absorbing new technology insights and collaborating within teams. Currently, I'm pursuing my Master's degree in Robotics at National Yang Ming Chiao Tung University, specializing in the Department of Computer Science.
+
+My expertise includes image processing, computer vision, automatic control, machine learning, and embedded operating systems. I have a strong interest in learning new technologies, especially in the fields of image processing, machine learning, big data, and robotics. Therefore, I devote time outside of my studies to research and supplement my knowledge in these areas.
+
+Feel free to reach out to me for discussions and knowledge sharing on any related topics.
+
+------
+Other collaborative projects:
+https://github.com/bhchen2001/Real-Time-Video-Matting-with-GUI
+
 <!--
 **312605015/312605015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
